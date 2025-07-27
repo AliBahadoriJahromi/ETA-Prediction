@@ -26,7 +26,7 @@ The dataset includes:
 - Loaded CSV files and combined train/test sets
 - Removed outliers using **Z-score**
 - Converted timestamps to extract `hour`
-- Mapped geographic coordinates using Google Maps
+- Mapped geographic coordinates
 - Cleaned and transformed features for modeling
 
 ---
